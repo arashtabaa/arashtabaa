@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/restoftime" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" alt="restoftime" height="40" width="50" /></a>
-</p>
+<a href="https://discord.gg/restoftime" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=61604&format=png&color=000000" alt="restoftime" height="40" width="40" /></a>
+<a href="https://t.me/qrtes" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" alt="t.me/qrtes" height="40" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
