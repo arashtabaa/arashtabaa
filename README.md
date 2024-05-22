@@ -17,6 +17,7 @@
 <a href="https://t.me/qrtes" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" alt="t.me/qrtes" height="40" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
+<a href="https://www.w3schools.com/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" </a> </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arashtabaa&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
