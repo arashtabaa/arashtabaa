@@ -23,6 +23,7 @@
 <h3 align="left">My Repository's:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=DataArrayApp)](https://github.com/arashtabaa/DataArrayApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=Stack-QueueApp)](https://github.com/arashtabaa/Stack-QueueApp)
 
 <h3 align="left">My Github Stats::</h3>
 
