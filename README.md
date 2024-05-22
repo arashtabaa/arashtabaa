@@ -27,6 +27,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=DataArrayApp)](https://github.com/arashtabaa/DataArrayApp)
 
 
-<h3 align="left">My Github Stats::</h3>
+<h3 align="left">My Github Stats:</h3>
 
 [![arashtabaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
