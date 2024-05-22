@@ -20,4 +20,10 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
 <a href="https://www.w3schools.com/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" </a> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arashtabaa&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+<h3 align="left">My Repository's:</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=DataArray)](https://github.com/arashtabaa/DataArray)
+
+<h3 align="left">My Github Stats::</h3>
+
+[![arashtabaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
