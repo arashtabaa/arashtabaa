@@ -1,7 +1,7 @@
 ## Introduction
 
 <p align="center">
-<a href="https://github.com/arashtabaa"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=FFF53A&center=true&vCenter=true&random=false&width=700&height=45&lines=Software+engineering+student;Trying+to+expand+my+programming+skills;Building+with+C%23+and+PHP" alt="Typing SVG" /></a>
+<a href="https://github.com/arashtabaa"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=4493F8&center=true&vCenter=true&random=false&width=700&height=45&lines=Software+engineering+student;Trying+to+expand+my+programming+skills;Building+with+C%23+and+PHP" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/arashtabaa">Arash</a></h3>
@@ -9,7 +9,7 @@
 </p>
 
 <h5 align="center">Below are some links to connect with me and check out some stats</h5>
-<p align="center"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-qrtes-blue?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fqrtes">
+<p align="center"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-qrtes-236AD3?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fqrtes">
 <a href="https://discord.gg/restoftime"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://github.com/arashtabaa?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arashtabaa?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/arashtabaa"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/arashtabaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/arashtabaa"> <img src="https://komarev.com/ghpvc/?username=arashtabaa&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/arashtabaa"> <img src="https://komarev.com/ghpvc/?username=arashtabaa&style=for-the-badge&color=236AD3"> </a>
       </td>
     </tr>
   </table>
