@@ -41,11 +41,11 @@
 
 ## My Stats
 
-[![arashtabaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![arashtabaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/arashtabaa)
 
 ## Activity On GitHub
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=arashtabaa&theme=github-dark&border=E4E2E2&ring=4C8EDA&stroke=E4E2E2&dates=E4E2E2&sideLabels=549EF2" alt="GitHub Streak" /></a>
+  <a href="https://github.com/arashtabaa"><img src="http://github-readme-streak-stats.herokuapp.com?user=arashtabaa&theme=github-dark&border=E4E2E2&ring=4C8EDA&stroke=E4E2E2&dates=E4E2E2&sideLabels=549EF2" alt="GitHub Streak" /></a>
 </p>
 
 ## Top Respositorys
