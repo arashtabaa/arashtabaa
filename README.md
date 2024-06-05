@@ -79,7 +79,7 @@
     srcset="https://raw.githubusercontent.com/arashtabaa/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/arashtabaa/snk/output/github-contribution-grid-snake.svg"
   />
   <img
