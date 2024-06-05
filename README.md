@@ -9,11 +9,23 @@
 </p>
 
 <h5 align="center">Below are some links to connect with me and check out some stats</h5>
-<p align="center"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-qrtes-236AD3?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fqrtes">
-<a href="https://discord.gg/restoftime"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://github.com/arashtabaa?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arashtabaa?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/arashtabaa"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/arashtabaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+
+
+<p align="center">
+    <a href="https://t.me/qrtes">
+        <img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/restoftime">
+        <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://github.com/arashtabaa?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arashtabaa?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/>
+    </a>
+    <a href="https://github.com/arashtabaa">
+        <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/arashtabaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+    </a>
 </p>
+
 
 ## Profile Views
 
@@ -28,16 +40,17 @@
     </tr>
   </table>
 
+
 ## What I'm Doing
 
 - 🔭 Working on University Project
 - 🌱 Learning **PHP** & more
-- 📫 How to contact me: restoftime (Discord)
 - ⚡ Fun fact: **Did you know that PHP originally stood for "Personal Home Page"? It was created by Rasmus Lerdorf in 1994 to help manage his personal website. Over time, it evolved into the widely-used server-side scripting language we know today.**
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/arashtabaa"><img src="https://skillicons.dev/icons?i=visualstudio,cs,vscode,php"> </a> </p>
+<p align="left"> <a href="https://github.com/arashtabaa"><img src="https://skillicons.dev/icons?i=visualstudio,cs,vscode,php"> </a>
+</p>
 
 ## My Stats
 
@@ -54,5 +67,29 @@
      <a href="https://github.com/arashtabaa/Stack-QueueApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=Stack-QueueApp&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/arashtabaa/General-Tree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=General-Tree&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/arashtabaa/ATM-Queue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=ATM-Queue&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
-  </p>
+</p>
+
+## Most Used Languages
+<p align="left">
+<img width="278" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashtabaa&layout=compact&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true"></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arashtabaa/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arashtabaa/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/arashtabaa/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+### How to reach me :mailbox:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/qrtes)
+
+
 
