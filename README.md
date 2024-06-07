@@ -67,6 +67,7 @@
      <a href="https://github.com/arashtabaa/Stack-QueueApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=Stack-QueueApp&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/arashtabaa/General-Tree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=General-Tree&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/arashtabaa/ATM-Queue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=ATM-Queue&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
+      <a href="https://github.com/arashtabaa/CoursePlanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arashtabaa&repo=CoursePlanner&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" alt="github-readme-streak-stats"></a>
 </p>
 
 ## Most Used Languages
