@@ -49,7 +49,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/arashtabaa"><img src="https://skillicons.dev/icons?i=visualstudio,cs,vscode,php"> </a>
+<p align="left"> <a href="https://github.com/arashtabaa"><img src="https://skillicons.dev/icons?i=visualstudio,cs,vscode,php,react"> </a>
 </p>
 
 ## My Stats
