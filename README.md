@@ -58,7 +58,12 @@
 
 ## Activity On GitHub
 <p align="left">
-  <a href="https://github.com/arashtabaa"><img src="http://github-readme-streak-stats.herokuapp.com?user=arashtabaa&mode=weekly&theme=github-dark&border=E4E2E2&ring=4C8EDA&stroke=E4E2E2&dates=E4E2E2&sideLabels=549EF2" alt="GitHub Streak" /></a>
+  <a href="https://github.com/arashtabaa">
+    <img
+      src="https://streak-stats.demolab.com?user=arashtabaa&mode=weekly&theme=github-dark&border=E4E2E2&ring=4C8EDA&stroke=E4E2E2&dates=E4E2E2&sideLabels=549EF2"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ## Top Respositorys
@@ -72,7 +77,9 @@
 
 ## Most Used Languages
 <p align="left">
-<img width="278" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashtabaa&layout=compact&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true"></p>
+<!-- Fallback mirror -->
+<img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arashtabaa&layout=compact&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" />
+</p>
 
 
 ## My Snake
