@@ -54,7 +54,7 @@
 
 ## My Stats
 
-[![arashtabaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/arashtabaa)
+[![arashtabaa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/arashtabaa)
 
 ## Activity On GitHub
 <p align="left">
