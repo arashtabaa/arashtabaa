@@ -40,5 +40,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_author: 'Arash Tabaa <arash.tabaa@gmail.com>'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
