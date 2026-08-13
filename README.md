@@ -54,14 +54,14 @@
 
 ## My Stats
 
-[![arashtabaa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/arashtabaa)
+[![arashtabaa's GitHub stats](https://github-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/arashtabaa)
 
 ## Activity On GitHub
 <p align="left">
   <a href="https://github.com/arashtabaa">
     <img
-      src="https://streak-stats.demolab.com?user=arashtabaa&mode=weekly&theme=github-dark&border=E4E2E2&ring=4C8EDA&stroke=E4E2E2&dates=E4E2E2&sideLabels=549EF2"
-      alt="GitHub Streak"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=arashtabaa&theme=github-dark"
+      alt="GitHub Activity Graph"
     />
   </a>
 </p>
