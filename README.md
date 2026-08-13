@@ -79,7 +79,7 @@
 ## Most Used Languages
 <p align="left">
 <!-- Fallback mirror -->
-<img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arashtabaa&layout=compact&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" />
+<img width="278" src="https://github-stats.vercel.app/api/top-langs/?username=arashtabaa&layout=compact&theme=github-dark&bg_color=0D1117&title_color=F9F9FA&text_color=909193&hide_border=false&border_color=E4E2E2&icon_color=1F6FEB&show_icons=true" />
 </p>
 
 
