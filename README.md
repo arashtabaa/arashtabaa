@@ -54,7 +54,7 @@
 
 ## My Stats
 
-[![arashtabaa's GitHub stats](https://github-stats.vercel.app/api?username=arashtabaa&show_icons=true&theme=github_dark)](https://github.com/arashtabaa)
+[![arashtabaa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=arashtabaa&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=30363D&hide_border=false)](https://github.com/arashtabaa)
 
 ## Activity On GitHub
 <p align="left">
@@ -78,8 +78,7 @@
 
 ## Most Used Languages
 <p align="left">
-<!-- Fallback mirror -->
-<img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arashtabaa&layout=compact&theme=github_dark" />
+<img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arashtabaa&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=30363D&hide_border=false" />
 </p>
 
 
